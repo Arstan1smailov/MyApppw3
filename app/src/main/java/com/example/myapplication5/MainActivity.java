@@ -1,4 +1,4 @@
-package com.geektech.calculator;
+package com.example.myapplication5;
 
 import androidx.appcompat.app.AppCompatActivity;
 
